@@ -14,7 +14,7 @@ El conjunto de datos cuenta con más de 49.000 registros y fue obtenido del Port
 - Analizar y eliminar valores duplicados y nulos
 - Conversión de columnas
   
-Notebook: [adfa](www.google.com)
+Jupyter Notebook: [Accidentes_Trafico_Madrid_2025](www.google.com)
 
 ---
 

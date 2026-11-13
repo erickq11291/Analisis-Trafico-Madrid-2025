@@ -13,7 +13,8 @@ El conjunto de datos cuenta con más de 49.000 registros y fue obtenido del Port
 - Revisión general del dataset
 - Analizar y eliminar valores duplicados y nulos
 - Conversión de columnas
-Notebook: (adfa)[www.google.com]
+  
+Notebook: [adfa](www.google.com)
 
 ---
 
